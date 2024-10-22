@@ -22,7 +22,7 @@ Spotify, a leading music streaming platform, offers a vast catalog of songs, pod
 
     💡 Both platforms attract a similar age demographic, but YouTube has a higher percentage of male users. Both appeal to tech and gaming audiences, though YouTube reaches a more diverse range of content interests.
 
-#### ⌨️ Search Dynamics
+#### 🔎 Search Dynamics
 
 | 🟩 Spotify | 🟥 YouTube | 
 |--------------------|--------------------|
