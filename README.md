@@ -1,2 +1,2 @@
-# Comparative Analysis of Spotify and YouTube: Traffic, Engagement, and Growth Strategies
+# Comparative Study of Spotify and YouTube Focusing on Traffic, Engagement, and Growth
 
