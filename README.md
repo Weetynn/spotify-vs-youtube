@@ -29,4 +29,11 @@ Spotify, a leading music streaming platform, offers a vast catalog of songs, pod
 | ▪️ 357.1 million search visits (23.65% of total traffic) <br/> ▪️ 95.78% organic searches <br/> ▪️ Key terms: "Spotify web player", "Spotify Wrapped" | ▪️ 18.85 billion search visits (19.22% of total traffic) <br/> ▪️ 99.82% organic searches <br/> ▪️ Top terms: 'youtube', 'yt', 'youtube music' | 
 
     💡 YouTube’s search traffic far exceeds Spotify, showing its dominant brand recognition. Both rely heavily on organic search, but YouTube has broader search visibility.
-    
+
+#### 👣 Social Media Footprint
+
+| 🟩 Spotify | 🟥 YouTube | 
+|--------------------|--------------------|
+| ▪️ 48.2 million visits from social media (4.76% of traffic) <br/> ▪️ YouTube is the top referrer (34.99%)| ▪️ 1.2 billion visits from social media (1.56% of total traffic) <br/> ▪️ Top referrers: Facebook (27.73%), Twitter (20.8%), Reddit (19.16%) | 
+
+    💡 YouTube dominates in social media traffic, although social media contributes more to Spotify's overall traffic. Both platforms benefit from strong cross-platform interactions.
